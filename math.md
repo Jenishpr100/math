@@ -1,1 +1,3 @@
-\sum_{n=0}^{\infty}\frac{1}{n!}
+$\sum_{n=0}^{\infty}\frac{1}{n!} = e$
+
+$\frac{\frac{67^{67}}{67^{67}}\int_{6}^{7}\frac{\frac{67^{\frac{67}{67}}}{67}+67^{\frac{67^{\frac{67}{67}}}{67}}-\frac{67^{\frac{67}{67}}}{67}+\frac{67^{\frac{67}{67}}}{67}+67^{\frac{67}{67}}-\frac{67}{67}}{\frac{\left(\left(\frac{67^{\frac{67}{67}}}{67}\right)6+7\left(\frac{67}{67}\right)^{\frac{67^{\frac{67}{67}}}{67}}\right)67}{67}+\frac{\sum_{n=6}^{7}67}{67}-\frac{\ln\left(67\right)+\ln\left(67\right)}{\ln\left(67\right)}}\frac{67}{67}x^{\frac{\frac{\left(\frac{67}{67}\cdot\frac{67}{67}\right)67}{67}}{\frac{67}{67}}}dx}{\frac{67}{67}\left(\frac{67}{67}\right)\int_{6}^{7}\frac{67+67}{6+7}ydy}67^{\frac{67}{67}}$
